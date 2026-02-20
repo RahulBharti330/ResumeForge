@@ -81,6 +81,4 @@ This project demonstrates real-world language data annotation, dataset engineeri
 7. Upload resume through Streamlit dashboard  
 8. Extract and display structured information  
 
----
 
-# Project Structure
